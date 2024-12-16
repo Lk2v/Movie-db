@@ -6,7 +6,9 @@ This academic project aims to demonstrate skills in designing, securing, optimiz
 
 We chose to focus on building an enriched cinematic database that combines user interactions from MovieLens with detailed metadata from TMDb. The objective is to develop a comprehensive platform that enables exploring and analyzing movies while centralizing data related to cinematic works and user interactions.
 
-The features include searching for movies by genre or title, sorting based on various criteria, displaying enriched details for each movie, generating detailed statistics, and providing advanced SQL user management with different access levels. An intuitive graphical user interface (GUI) simplifies interaction and enhances the user experience.
+The features include searching for movies by genre or title, sorting based on various criteria, displaying enriched details for each movie, generating detailed statistics, and providing advanced SQL user management with different access levels. Additionally, the platform incorporates tools for administrators to manage MovieLens data directly, including the ability to delete specific tags or remove users from the MovieLens dataset. These features ensure efficient data maintenance while preserving consistency within the database.
+
+An intuitive graphical user interface (GUI) simplifies interaction and enhances the user experience, enabling both end-users and administrators to interact seamlessly with the system.
 
 This application is built using Rust (for backend logic), Oracle SQL (for database operations), and Tauri (for GUI development).
 
