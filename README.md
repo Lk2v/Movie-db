@@ -830,65 +830,36 @@ Deletes the MovieLens user and associated data (tags and ratings)
 
 ## 6. Interface Overview
 
-### Login Screens
-
 ![Login List Page](screenshots/login-list-page.png)  
 > Login page
-
-<div style="height: 50px;"></div>
 
 ![Login With Custom User](screenshots/login-user-page-lucas.png) 
 > Login With Custom User
 
-<div style="height: 50px;"></div>
-
 ![Login with administrator](screenshots/login-user-page-admin.png) 
 > Login with administrator
-
-<div style="height: 50px;"></div>
-
-### Home Page
 
 ![Search for “shrek” sorted by highest rated](screenshots/home-page-shrek-top-rated.png)  
 > Search for “shrek” sorted by highest rated
 
-<div style="height: 50px;"></div>
-
 ![List of action movies sorted alphabetically](screenshots/home-page-action-top-rated.png) 
 > List of action movies sorted alphabetically
-
-<div style="height: 50px;"></div>
-
-### Movie Details Page
 
 ![Wall-e movie details page](screenshots/movie-details-page-wall-e.png) 
 > Wall-e movie details page
 
-<div style="height: 50px;"></div>
-
-### Statistics Page
 ![Statistics Page](screenshots/statistics-page.png) 
 > Statistics Page
-
-<div style="height: 50px;"></div> 
-
-### Admin User Management
 
 ![SQL user administration page](screenshots/sql-users-admin-page-2.png) 
 > SQL user administration page
 
-<div style="height: 50px;"></div> 
-
 ![SQL user administration page - Add User](screenshots/sql-users-admin-page-add-user.png) 
 > SQL user administration page - Add User
-
-<div style="height: 50px;"></div> 
-
 
 ![SQL user administration page - Add User](screenshots/sql-users-admin-page-3.png) 
 > SQL user administration page after adding a new user
 
-<div style="height: 50px;"></div> 
 
 ## 7. Installation Guide
 
