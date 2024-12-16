@@ -19,7 +19,7 @@
 		{#each top_profits_movies as movie, i}
 			<div class="movie-profit-item">
                 <h1 class="movie-rank">#{i+1}</h1>
-                <img class="movie-poster" src={getPosterPath(movie.poster_path)} alt={movie.title} />
+                <img class="movie-poster" src={getPosterPath(movie.poster_path, 200)} alt={movie.title} />
                 <div class="movie-detail">
                     <h5 class="movie-title">{movie.title}</h5>
                     

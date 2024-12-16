@@ -38,8 +38,8 @@ interface Movie {
     tags: MovieTag[];
 }
 
-function getPosterPath(path: string) {
-    return `https://image.tmdb.org/t/p/w500/${path}`;
+function getPosterPath(path: string, width: number = 500) {
+    return `https://image.tmdb.org/t/p/w${width}/${path}`;
 }
 
 function getBackdropPath(path: string) {

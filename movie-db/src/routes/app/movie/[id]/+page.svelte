@@ -192,7 +192,7 @@
     }
 
     .movie-poster-image {
-        height: 350px;
+        width: 250px;
     
         box-shadow: 0 14px 33px 0 rgba(0, 0, 0, 0.5);
         border-radius: 8px;

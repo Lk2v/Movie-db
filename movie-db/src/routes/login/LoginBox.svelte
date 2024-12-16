@@ -26,7 +26,7 @@
 <div class="login-box-container">
     <div class="login-box">
         <div class="login-box-header">
-            <h3>{choice.username}</h3>
+            <h3>{choice.title}</h3>
         </div>
         <div class="login-box-body">
             <TextField bind:value={username} label="Username" placeholder="Username" autocapitalize="off" disabled={choice.username != undefined}/>

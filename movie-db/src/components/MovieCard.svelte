@@ -18,7 +18,7 @@
                     <ThumbsUp size={18}/>
                     <span class="movie-vote-average-value">{formatVote(movie.vote_average)} %</span>
                 </span>
-                <img src={getPosterPath(movie.poster_path)} alt={movie.title} />
+                <img src={getPosterPath(movie.poster_path, 300)} alt={movie.title} />
             </div>
             <div class="movie-details">
                 <h5 class="movie-title">{movie.title}</h5>
@@ -30,6 +30,8 @@
 
 <style>
     .movie-card-container {
+        margin: 12px;
+        
         display: flex;
         justify-content: center;
         align-items: center;
@@ -84,8 +86,12 @@
         margin-left: 5px;
     }
     .movie-thumbnail img {
-        width: 175px;
+        width: 100%;
         object-fit: cover;
+        object-position: center;
+
+        aspect-ratio: 2 / 3;
+
         display: block;
     }
 
