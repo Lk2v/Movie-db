@@ -6,7 +6,9 @@ This academic project aims to demonstrate skills in designing, securing, optimiz
 
 We chose to focus on building an enriched cinematic database that combines user interactions from MovieLens with detailed metadata from TMDb. The objective is to develop a comprehensive platform that enables exploring and analyzing movies while centralizing data related to cinematic works and user interactions.
 
-The features include searching for movies by genre or title, sorting based on various criteria, displaying enriched details for each movie, generating detailed statistics, and providing advanced SQL user management with different access levels. An intuitive graphical user interface (GUI) simplifies interaction and enhances the user experience.
+The features include searching for movies by genre or title, sorting based on various criteria, displaying enriched details for each movie, generating detailed statistics, and providing advanced SQL user management with different access levels. Additionally, the platform incorporates tools for administrators to manage MovieLens data directly, including the ability to delete specific tags or remove users from the MovieLens dataset. These features ensure efficient data maintenance while preserving consistency within the database.
+
+An intuitive graphical user interface (GUI) simplifies interaction and enhances the user experience, enabling both end-users and administrators to interact seamlessly with the system.
 
 This application is built using Rust (for backend logic), Oracle SQL (for database operations), and Tauri (for GUI development).
 
@@ -17,7 +19,6 @@ The project relies on two primary datasets, which are combined to enhance and en
 #### MovieLens [[source]](https://www.kaggle.com/datasets/aigamer/movie-lens-dataset)
 
 The MovieLens dataset forms the foundation of our project. Created and maintained by the GroupLens research lab, it contains a rich collection of user interactions with movies, including ratings and tags. These data are essential for ranking movies by popularity, analyzing user preferences, and providing detailed statistics. Tags serve as "short comments" from users, while ratings help establish rankings and identify the most appreciated movies.
-
 
 #### TMDb (The Movie Database) [[source]](https://www.kaggle.com/code/asaniczka/tmdb-movies-daily-updates/output)
 
