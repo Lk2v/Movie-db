@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'MonaSans';
+    src: url('/fonts/MonaSans-VariableFont_wdth,wght.ttf') format('truetype');
+    font-weight: 100 900; /* Ajustez en fonction de la plage réelle des poids */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MonaSans';
+    src: url('/fonts/MonaSans-Italic-VariableFont_wdth,wght.ttf') format('truetype');
+    font-weight: 100 900; /* Ajustez en fonction de la plage réelle des poids */
+    font-style: italic;
+}
