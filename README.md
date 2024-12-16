@@ -20,7 +20,6 @@ The project relies on two primary datasets, which are combined to enhance and en
 
 The MovieLens dataset forms the foundation of our project. Created and maintained by the GroupLens research lab, it contains a rich collection of user interactions with movies, including ratings and tags. These data are essential for ranking movies by popularity, analyzing user preferences, and providing detailed statistics. Tags serve as "short comments" from users, while ratings help establish rankings and identify the most appreciated movies.
 
-
 #### TMDb (The Movie Database) [[source]](https://www.kaggle.com/code/asaniczka/tmdb-movies-daily-updates/output)
 
 To complement MovieLens data, we integrated the TMDb dataset, which provides detailed metadata about movies. It includes information such as movie descriptions, release dates, budgets, revenues, and posters. These data enrich MovieLens by adding a qualitative and visual dimension to create an engaging user interface. Posters and summaries facilitate exploration, while financial data and popularity metrics enable in-depth performance analysis.
