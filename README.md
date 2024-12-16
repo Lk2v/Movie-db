@@ -833,80 +833,60 @@ Deletes the MovieLens user and associated data (tags and ratings)
 ### Login Screens
 
 ![Login List Page](screenshots/login-list-page.png)  
-<center>
-    <span>Login page</span>
-</center>
+> Login page
 
 <div style="height: 50px;"></div>
 
 ![Login With Custom User](screenshots/login-user-page-lucas.png) 
-<center>
-    <span>Login With Custom User</span>
-</center>
+> Login With Custom User
 
 <div style="height: 50px;"></div>
 
 ![Login with administrator](screenshots/login-user-page-admin.png) 
-<center>
-    <span>Login with administrator</span>
-</center>
+> Login with administrator
 
 <div style="height: 50px;"></div>
 
 ### Home Page
 
 ![Search for “shrek” sorted by highest rated](screenshots/home-page-shrek-top-rated.png)  
-<center>
-    <span>Search for “shrek” sorted by highest rated</span>
-</center>
+> Search for “shrek” sorted by highest rated
 
 <div style="height: 50px;"></div>
 
 ![List of action movies sorted alphabetically](screenshots/home-page-action-top-rated.png) 
-<center>
-    <span>List of action movies sorted alphabetically</span>
-</center>
+> List of action movies sorted alphabetically
 
 <div style="height: 50px;"></div>
 
 ### Movie Details Page
 
 ![Wall-e movie details page](screenshots/movie-details-page-wall-e.png) 
-<center>
-    <span>Wall-e movie details page</span>
-</center>
+> Wall-e movie details page
 
 <div style="height: 50px;"></div>
 
 ### Statistics Page
 ![Statistics Page](screenshots/statistics-page.png) 
-<center>
-    <span>Statistics Page</span>
-</center>
+> Statistics Page
 
 <div style="height: 50px;"></div> 
 
 ### Admin User Management
 
 ![SQL user administration page](screenshots/sql-users-admin-page-2.png) 
-<center>
-    <span>SQL user administration page</span>
-</center>
+> SQL user administration page
 
 <div style="height: 50px;"></div> 
 
 ![SQL user administration page - Add User](screenshots/sql-users-admin-page-add-user.png) 
-<center>
-    <span>SQL user administration page - Add User</span>
-</center>
+> SQL user administration page - Add User
 
 <div style="height: 50px;"></div> 
 
 
 ![SQL user administration page - Add User](screenshots/sql-users-admin-page-3.png) 
-<center>
-    <span>SQL user administration page after adding a new user</span>
-</center>
+> SQL user administration page after adding a new user
 
 <div style="height: 50px;"></div> 
 
